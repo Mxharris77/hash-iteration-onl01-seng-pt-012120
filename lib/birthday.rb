@@ -18,7 +18,6 @@ def age_approptiate_birthday(birthday_kids)
              puts "You are too old for this".
            end
       end 
-  end 
 end
   
 
